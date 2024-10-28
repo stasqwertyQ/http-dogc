@@ -1,0 +1,19 @@
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    select,
+    button {
+        padding: 8px;
+        margin: 10px;
+    }
+
+    .dog-info {
+        margin-top: 20px;
+        border: 1px solid #ccc;
+        padding: 10px;
+        display: inline-block;
+        width: 300px;
+    }
